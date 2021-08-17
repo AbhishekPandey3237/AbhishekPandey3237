@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AbhishekPandey3237
-- 👀 I’m interested in knowing more about computers and how it works at low level and complex mathematics problems.
-- 🌱 I’m currently learning Gamedev using JS.
-- 💞️ I’m looking to collaborate on Gamedevs or any interesting projects.
+- 👋 Hi, I’m **Abhishek Pandey** .
+- 👀 I’m interested in knowing more about computers and how it works at low level and also love Data Science.
+- 🌱 I’m currently learning about Linux and want to contribute to it.
+- 💞️ I’m looking for some good resources for Data Science and someone who also wants to join me in this journey is welcome.
 - 📫 How to reach me abhishek.pandey.3237@gmail.com
 
 <!---
